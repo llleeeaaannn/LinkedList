@@ -1,8 +1,8 @@
 # LinkedList
-This repository is my implementation of a Linked list data structure through Ruby which I undertook as part of studying Ruby. I implemented a class for the linked list itself while also creating a class representing the nodes found in the list. The linked list is singly linked. I also added several useful methods to the linked list class as shown below.
+This repository is my implementation of a Linked List data structure through Ruby which I undertook as part of studying Ruby. I implemented a class for the linked list itself while also creating a class representing the nodes found in the list. The linked list is singly linked. I also added several useful methods to the linked list class as shown below.
 
 # Guide for use
-In order to make use of this data stricture simply include it in your file and create an instance of the Linked List. All methods can be called directly on the linked list class.
+In order to make use of this data stricture simply include it in your file or project and create an instance of the Linked List. All methods can be called directly on the linked list class.
 
 # Methods
 | Methods           | Functionality |
