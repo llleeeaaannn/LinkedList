@@ -1,8 +1,7 @@
 # LinkedList
-This repository is my implementation of a Linked list data structure through Ruby which I undertook as part of The Odin Project. I implemented a class for the linked list itself while also creating a class representing the nodes found in the list. The linked list is singly linked. I also added several useful methods to the linked list class as shown below.
+This repository is my implementation of a Linked list data structure through Ruby which I undertook as part of studying Ruby. I implemented a class for the linked list itself while also creating a class representing the nodes found in the list. The linked list is singly linked. I also added several useful methods to the linked list class as shown below.
 
 # Guide for use
-To use this data structure, simply include it in your file, and create an instance of it as you would with a hash or an array; all methods can be called directly on the instance of the class.
 In order to make use of this data stricture simply include it in your file and create an instance of the Linked List. All methods can be called directly on the linked list class.
 
 # Methods

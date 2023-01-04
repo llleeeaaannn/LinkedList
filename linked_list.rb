@@ -164,3 +164,13 @@ class Node
   end
 
 end
+
+
+mylist = LinkedList.new
+mylist.append("apple")
+mylist.append("orange")
+mylist.append("mango")
+mylist.append("banana")
+mylist.append("pineapple")
+
+print mylist.to_s
